@@ -1,0 +1,18 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    background-color: #FFE4E1;
+}
+
+.menu {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    text-align: center;
+    background-color: #FFE4E1;
+}
+
+#comment {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-style: italic;
+}
